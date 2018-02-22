@@ -10,9 +10,9 @@ This particular perceptron was trained to classify a four-input OR function, tha
 
 Please refer to the technical document for an in-depth explanation of the algorithm and code.
 
-Folder contains
+Project contains/produces:
 1. ORPerceptron_training.py - file used to train ORPerceptron
-2. Training.txt - file produced after running ORPerceptron_training.py. This contains the trained weight values
+2. training.txt - file produced after running ORPerceptron_training.py. This contains the trained weight values
 3. ORPerceptron.py - file used to test trained ORPerceptron 
 4. in.txt - input file containing vectors separated by a new line
 5. out.txt - output file produced after running ORPerceptron.py. This will contain ORPerceptron output values separated by a bank line. 
